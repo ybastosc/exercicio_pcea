@@ -1,3 +1,3 @@
 # exercicio_pcea
-
+A materia de pc e computadores abrange o estudo dos componentes fundamentais e do funcionamento das maquinas que usamos diariamente, como desktops, laptops e dispositivos móveis. Esse campo explora a arquitetura de computadores, abordando desde o hardware, como processadores, memórias RAM, discos rígidose placa-mãe, até o software, incluindo sistemas operacionais e programas essenciais para o funcionamento. A matéria também envolve estudo de redes de computadores, segurança da informação e manutenção de hardware, proporcionando uma visão completa sobre como os computadores processam, armazenam e transmitem dados. Entender o funcionamento dessas maquinas é essencial para quem deseja trabalhar em áreas de tecnologia e suportes técnicos.
 ## Fazer um fork desse repositório e enviar uma alteração no README.md, com um parágrafo sobre essa matéria.
